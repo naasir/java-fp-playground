@@ -1,0 +1,9 @@
+*.class
+*.log
+.DS_Store
+
+# Temp Files
+*.*~
+
+# Bazel Files
+bazel-*
